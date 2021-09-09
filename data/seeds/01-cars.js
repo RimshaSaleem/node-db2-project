@@ -9,7 +9,7 @@ const cars =[
         transmissin:'manual',
     },
     {
-        vin: '11111111111',
+        vin: '12111111111',
         make:'toyota',
         model:'corollas',
         mileage:115000,
@@ -17,7 +17,7 @@ const cars =[
         transmissin:'salvage',
     },
     {
-        vin: '11111111111',
+        vin: '13111111111',
         make:'ford',
         model:'focus',
         mileage:115000,
